@@ -1,0 +1,23 @@
+.img{
+    border-radius: 20px;
+    height: 200px;
+    width: 200px;
+    transition: transform .2s;
+    margin: 10px 10px auto;
+}
+
+ .container {
+    display: contents;
+    justify-content: center;
+    align-items: center;  
+ }
+
+.encabezado{
+    text-align: center;
+    margin: 20px;
+}
+
+.containerC{
+    background-color: black;
+}
+
